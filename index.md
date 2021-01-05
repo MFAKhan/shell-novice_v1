@@ -3,7 +3,7 @@ layout: lesson
 root: .
 ---
 
-![Logo](img/TabLockup_horizontal_KGrgb_300ppi.png)
+<!---![Logo](img/TabLockup_horizontal_KGrgb_300ppi.png)--->
 ![Logo](img/TabLockup_horizontal_KGrgb_72ppi.png)
 
 
