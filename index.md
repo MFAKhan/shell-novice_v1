@@ -9,7 +9,7 @@ root: .
 
 ## General Information
 
-This Software Carpentry workshop is sponsored by Office of Research at UCF and brought to you by the ResearchIT team.
+This Software Carpentry workshop is sponsored by UCF Office of Research and conducted by the [RCI](https://rci.research.ucf.edu/) team.
 
 Software Carpentry aims to help researchers get their work done in less time and with less pain by teaching them basic research computing skills in a supportive & inclusive environment. This hands-on workshop will cover basic concepts and working with the Unix shell.
 
@@ -27,7 +27,7 @@ Software Carpentry aims to help researchers get their work done in less time and
 
 <!--Accessibility: We are dedicated to providing a positive and accessible learning environment for all. Please notify the instructors in advance of the workshop if you require any accommodations or if there is anything we can do to make this workshop more accessible to you.-->
 
-**Contact:** Please email ResearchIT@ucf.edu for more information.
+**Contact:** Please email <ResearchIT@ucf.edu> for more information.
 
 <!---Roles: To learn more about the roles at the workshop (who will be doing what), refer to our Workshop FAQ.--->
 
