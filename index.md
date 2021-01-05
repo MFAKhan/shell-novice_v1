@@ -25,6 +25,8 @@ This Software Carpentry workshop is sponsored by UCF Office of Research and cond
 
 <!--Accessibility: We are dedicated to providing a positive and accessible learning environment for all. Please notify the instructors in advance of the workshop if you require any accommodations or if there is anything we can do to make this workshop more accessible to you.-->
 
+**Registration:** Please register here (Provide EventBrite Link). Event registration is free. There are a limited number of seats and available on a first come, first served basis.
+
 **Contact:** Please email <ResearchIT@ucf.edu> for more information.
 
 <!---Roles: To learn more about the roles at the workshop (who will be doing what), refer to our Workshop FAQ.--->
