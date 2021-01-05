@@ -3,11 +3,9 @@ layout: lesson
 root: .
 ---
 
-![The file system is made up of a root directory that contains sub-directories
-titled bin, data, users, and tmp](../fig/filesystem.svg)
-
 ![Logo](img/TabLockup_horizontal_KGrgb_300ppi.png)
 ![Logo](img/TabLockup_horizontal_KGrgb_72ppi.png)
+
 
 The Unix shell has been around longer than most of its users have been alive.
 It has survived so long because it's a power tool
