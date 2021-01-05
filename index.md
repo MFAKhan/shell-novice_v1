@@ -7,7 +7,7 @@ root: .
 <!--![Logo](img/TabLockup_horizontal_KGrgb_72ppi.png)-->
 
 
-##General Information
+## General Information
 
 This Software Carpentry workshop is sponsored by Office of Research at UCF and brought to you by the ResearchIT team.
 
