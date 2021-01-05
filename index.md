@@ -3,8 +3,8 @@ layout: lesson
 root: .
 ---
 
-<!---![Logo](img/TabLockup_horizontal_KGrgb_300ppi.png)--->
-![Logo](img/TabLockup_horizontal_KGrgb_72ppi.png)
+<!--![Logo](img/TabLockup_horizontal_KGrgb_300ppi.png)-->
+<!--![Logo](img/TabLockup_horizontal_KGrgb_72ppi.png)-->
 
 
 The Unix shell has been around longer than most of its users have been alive.
